@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AuthLogin</string>
+    <string name="emai_hint">Your email here...</string>
+    <string name="pass_hint">Your password here...</string>
+    <string name="login_hint">Login to your account</string>
+    <string name="welcome">Welcome</string>
+    <string name="register_text">Register your account</string>
+    <string name="login_text">Already have an account?</string>
+    <string name="confirm_hint">Confirm your password..</string>
+</resources>

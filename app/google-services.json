@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "926888554389",
+    "firebase_url": "https://authlogin-3b27a.firebaseio.com",
+    "project_id": "authlogin-3b27a",
+    "storage_bucket": "authlogin-3b27a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926888554389:android:e59bdff8c0ac8ee4",
+        "android_client_info": {
+          "package_name": "com.example.android.authlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926888554389-of4oujbd5pm1m34sli1ug2pl3lsh2gkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.authlogin",
+            "certificate_hash": "1239df593dc44d17e0e2d71184746e9f41aba177"
+          }
+        },
+        {
+          "client_id": "926888554389-8pmt9hvmg4ijmtm4te0vatjlobtmed6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq6cQ9OhzA2RZ25sejB0VS4_q4oyLxWXc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926888554389-8pmt9hvmg4ijmtm4te0vatjlobtmed6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
